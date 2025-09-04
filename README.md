@@ -24,4 +24,44 @@ con resultado:
 
 
 2do punto
+1. se crea el volumen con nombre-apellido-codigo
+
+[![21.png](https://i.postimg.cc/7YjgkR99/21.png)](https://postimg.cc/bsHG03KS)
+
+
+[![21.png](https://i.postimg.cc/QdpWrdHN/21.png)](https://postimg.cc/k2g5Q9QL)
+
+
+3. creamos la tabla
+
+[![22.png](https://i.postimg.cc/zvgnMmM9/22.png)](https://postimg.cc/YLtGGPt3)
+
+4. ingresamos los datos
+
+[![23.png](https://i.postimg.cc/PrbD8Mkz/23.png)](https://postimg.cc/kB4G0KGB)
+
+5. eliminamos el contenedor
+
+[![24.png](https://i.postimg.cc/NjSQsWPN/24.png)](https://postimg.cc/rD1BgYTW)
+
+6. creamos uno nuevo
+
+[![25.png](https://i.postimg.cc/VvKc3TCW/25.png)](https://postimg.cc/q66YK1QN)
+
+
+7. vemos que la informacion no se ha perdido
+
+[![26.png](https://i.postimg.cc/GtVX8xw1/26.png)](https://postimg.cc/kRNQL8gj)
+
+
+
+punto 3
+
+crear index.html
+
+[![27.png](https://i.postimg.cc/4yk5XNzJ/27.png)](https://postimg.cc/KkfLNbqV)
+
+
+
+
 
