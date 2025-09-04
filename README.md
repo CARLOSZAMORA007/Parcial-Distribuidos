@@ -66,6 +66,10 @@ modo lectura
 
 [![30.png](https://i.postimg.cc/zXnJzt15/30.png)](https://postimg.cc/Vdky4F6H)
 
+resultado:
+
+[![31.png](https://i.postimg.cc/FKKmxhks/31.png)](https://postimg.cc/0zhLkRCL)
+
 
 
 
