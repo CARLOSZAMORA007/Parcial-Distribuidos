@@ -70,6 +70,11 @@ resultado:
 
 [![31.png](https://i.postimg.cc/FKKmxhks/31.png)](https://postimg.cc/0zhLkRCL)
 
+se cambio el nombre por "editado" y este es el resultado
+
+[![32.png](https://i.postimg.cc/0QqnsyG9/32.png)](https://postimg.cc/HJBX0HPN)
+
+
 
 
 
