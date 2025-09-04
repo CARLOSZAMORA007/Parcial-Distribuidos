@@ -62,6 +62,11 @@ crear index.html
 [![27.png](https://i.postimg.cc/4yk5XNzJ/27.png)](https://postimg.cc/KkfLNbqV)
 
 
+modo lectura
+
+[![30.png](https://i.postimg.cc/zXnJzt15/30.png)](https://postimg.cc/Vdky4F6H)
+
+
 
 
 
